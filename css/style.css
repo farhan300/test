@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.hero-section{
+    background-image: url('../image/mypic.png');
+    background-repeat: no-repeat;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+h1 span{
+    color: orange;
+}
+
+p{
+    padding-bottom: 20px;
+}
+
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 15px 30px;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.half-width img{
+    width: 100%;
+}
+
